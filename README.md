@@ -20,7 +20,7 @@ This is an Android application that fetches and displays live football match sco
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Benyormin/football-live-score.git
    ```
 2. Open the project in Android Studio.
 3. Replace the `X-Auth-Token` in the `MainActivity` file with your own API key from [Football Data](https://www.football-data.org/client/register).
